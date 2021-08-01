@@ -1,0 +1,11 @@
+... start log ...
+
+Recovery image isn't signed
+
+Recovery image unpacked successfully
+
+All port files copied successfully
+
+Ouput folder is empty..packing recovery failed
+
+... end log ...
